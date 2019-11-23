@@ -1,0 +1,21 @@
+body {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.alert-container {}
+
+.callout-container {
+    height: 100vh;
+}
+
+.quotes-container {}
+
+.features-container {}
+
+html { 
+  background: url("images/whiskey-background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
